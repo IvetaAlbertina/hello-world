@@ -1,2 +1,3 @@
 # hello-world
 make first test
+Kaut ko mainu readme failā...
